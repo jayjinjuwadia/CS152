@@ -1,1 +1,1 @@
-# CS152
+# CS152 MINI-L Project
